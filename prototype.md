@@ -6,6 +6,17 @@ O protótipo foi desenvolvido por meio da ferramenta Figma, e pode ser acessado 
 
 Todas as telas foram desenvolvidas no formato mobile e para notebook/computador.
 
+## Paleta de cores
+A paleta de cores do nosso sistema é composta pelos seguintes valores, respectivamente:
+- #F2F2F2
+- #333437
+- #C1C1C1
+- #CFEFF8
+- #0099CB
+- #1E3B66
+
+<img src="https://github.com/Cracha-virtual-LEDES/documentation/blob/main/images/prototipo3.jpeg" alt="Login" width="1500" height="230">
+
 ## Organização das telas
 
 Nosso sistema tem 2 tipos de usuários: o administrador e o perfil dos pesquisadores vinculados ao laboratório de desenvolvimento de software da universidade. 
