@@ -17,6 +17,8 @@ O Sistema de Crachá Virtual do LEDES tem como principal objetivo oferecer uma f
 
 - RF-5. O sistema deve gerar uma data de expiração para o crachá após sua criação.
 
-- RF-6. [Administrador] Todas as alterações feitas no crachá devem ser aprovadas por um Administrador. 
+- RF-6. O sistema deve fazer a verificação para confirmar a senha durante o cadastro.
 
-- RF-7.[Administrador] O sistema deve permitir que apenas perfis de Administrador criem novos usuários do tipo Administrador.
+- RF-7. [Administrador] Todas as alterações feitas no crachá devem ser aprovadas por um Administrador. 
+
+- RF-8. [Administrador] O sistema deve permitir que apenas perfis de Administrador criem novos usuários do tipo Administrador.
